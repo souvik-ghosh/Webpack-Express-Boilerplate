@@ -1,1 +1,1 @@
-Webpack-Express Boilerplate
+Webpack-Express Boilerplate with PUG and SCSS support.
